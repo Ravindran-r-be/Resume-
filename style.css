@@ -1,0 +1,77 @@
+.img{
+    border: 2px solid none;
+    height: 250px;
+    width: 250px;
+    border-radius: 124px;
+    
+    margin-top: 80px;
+}
+   
+.left-side-div{
+             border: 2px solid none;
+             margin-left: 80px;
+             margin-top:  -130px;
+            
+             height:600px;
+             width: auto;
+             padding:50px;
+}        
+
+.right-side-div{
+                border:  2px solid none;
+                margin-left: 600px ;
+                height: 600px;
+                width: 700px;
+                margin-top: -580px
+
+
+}
+.sdiv1{
+                border: 2px solid none;
+                background-color: #dbd8d8b1;
+                height:250px;
+                width: 250px;
+                float: left;
+          
+               
+} 
+.sdiv2{
+    border: 2px solid none;
+    height:250px;
+    width: 250px;
+   float:left;
+} 
+.sdiv3{
+    border: 2px solid none;
+    height:250px;
+    width: 250px;
+    float:left;
+   
+} 
+.sdiv4{
+    border: 2px solid none;
+    height:250px;
+    background-color: #dbd8d8b1;
+    width: 250px;
+    float:left;
+   
+} 
+.hfont{
+           margin-left: 400px;
+           margin-top: 40px;
+           font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+           font-size: xx-large;
+           font-style:italic;
+}
+.resume-font{
+              font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+              color: rgb(153, 241, 52);
+}
+.font{
+       font-family: 'Sono', sans-serif;
+}
+.headfont{
+           font-style: italic;
+           font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+           
+}
